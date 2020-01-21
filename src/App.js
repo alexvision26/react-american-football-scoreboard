@@ -19,6 +19,8 @@ function App() {
   const awayFieldGoal = e => {
     setAwayScore(awayScore + 3);
   }
+  
+
 
   return (
     <div className="container">
